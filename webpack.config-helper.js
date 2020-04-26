@@ -36,8 +36,8 @@ module.exports = (options) => {
             toastr: './src/scripts-init/toastr.js',
             scrollbar: './src/scripts-init/scrollbar.js',
             fullcalendar: './src/scripts-init/calendar.js',
-            maps: './src/scripts-init/maps.js',
-            chart_js: './src/scripts-init/charts/chartjs.js',
+            //maps: './src/scripts-init/maps.js',
+            //chart_js: './src/scripts-init/charts/chartjs.js',
         },
         output: {
             path: dest,
@@ -110,8 +110,8 @@ module.exports = (options) => {
             './src/scripts-init/toastr.js',
             './src/scripts-init/scrollbar.js',
             './src/scripts-init/calendar.js',
-            './src/scripts-init/maps.js',
-            './src/scripts-init/charts/chartjs.js',
+            //'./src/scripts-init/maps.js',
+            //'./src/scripts-init/charts/chartjs.js',
 
         ];
 
